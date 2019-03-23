@@ -1,4 +1,11 @@
 import javax.swing.JOptionPane;
+
+/**
+ * Clase Validar Datos.
+ * Esta clase valida datos introducidos por el usuario.
+ * Valida el genero, la fecha y el numero de telefono.
+ */
+
 public class ValidarDatos {
 
     public static boolean validarGenero(String genero) {
